@@ -10,6 +10,7 @@ namespace MyFirstConsoleApp
 
             Console.Write("Welcome to Lexicon!");
 
+            Console.WriteLine("change");
         }
     }
 }
